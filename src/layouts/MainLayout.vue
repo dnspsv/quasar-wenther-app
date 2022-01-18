@@ -11,7 +11,7 @@
           @click="toggleLeftDrawer"
         />
 
-        <q-toolbar-title> Quasar Tempo </q-toolbar-title>
+        <q-toolbar-title> Quasar Temp </q-toolbar-title>
 
       </q-toolbar>
     </q-header>
